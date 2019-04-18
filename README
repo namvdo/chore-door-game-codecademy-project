@@ -1,5 +1,9 @@
-Chore Door
+## Chore Door
 Your mission is to construct a single-page website that plays a fully-functional game. You will see how HTML, CSS, and JavaScript interact harmoniously to produce a dynamic website.
+
+### Screenshot
+
+![](https://github.com/namvdo/chore-door-game-codecademy-project/blob/master/Screenshot.png)
 
 Follow the link below to see what your game will look like by the end of this project. Play a few rounds and see how you fare against the ChoreBot:
 
@@ -11,6 +15,7 @@ If you get stuck during this project or would like to see an experienced develop
 
 Tasks
 70/70Complete
+
 Mark the tasks as complete by checking them off
 Getting Started - Get a Door, Open a Door!
 
